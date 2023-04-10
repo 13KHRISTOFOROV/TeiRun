@@ -1,0 +1,35 @@
+h1 {
+    color: rgb(15, 14, 14);
+    font-size: 40px;
+    text-align: center;
+
+}
+img {
+    width: 70%;
+
+}
+h2 {
+    color: rgb(220, 157, 74);
+    padding: 30px;
+    border-radius: 10px;
+    left: 50px;
+    border-radius: 20px;
+}
+h3 {
+    color: rgb(220, 157, 74);
+    padding: 20px;
+    text-align: center;
+}
+h4 {
+    color: rgb(220, 157, 74);
+    text-align: center;
+}
+.post-1 {
+
+    padding: 30px;
+}
+a {
+    font-size: 24px;
+    color: black;
+    left: 80px;
+}
